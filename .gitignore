@@ -22,11 +22,6 @@
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
-
 # =========================
 # Operating System Files
 # =========================
